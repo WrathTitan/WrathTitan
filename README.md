@@ -4,11 +4,13 @@
 <h2 align="center"> (0_0)/~ Hello there! I am Rishabh Bhatt 👋 </h2>
 <h3 align="center"> A passionate and hardworking individual, interested in tech, with an aim to change the world! </h3>
 
+
+
 ---
 
 ### Experience 📈
 
-- 🤵 Currently Interning at: [![Curl Tech](http://img.shields.io/badge/-Curl Tech-purple?style=plastic&link=https://curl.tech/)]()
+- 🤵 Currently Interning at: [![Curl Tech](http://img.shields.io/badge/-Curl Tech-purple?style=plastic&link=https://curl.tech/)](https://curl.tech/)
 - 🙌 Communities active with: ![Developer Student Club](https://img.shields.io/badge/-Developer_Student_Club_RIT-red?style=plastic&logo=google&logoColor=white&link=https://github.com/DSC-RIT) ![IEEE RITB](http://img.shields.io/badge/-IEEE RITB-white?style=plastic&logo=ieee&logoColor=black&link=https://site.ieee.org/sb-ritb/) ![19a](https://img.shields.io/badge/-19a-blue?style=plastic)![Quiz Club](https://img.shields.io/badge/-Quiz Club-blue?style=plastic)
 
 - 🔭 Have played around with:   ![Unity](http://img.shields.io/badge/-Unity-purple?style=plastic&logo=Unity&logoColor=white) ![C#](http://img.shields.io/badge/-C%23-orange?style=plastic&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/-C++-red?style=plastic&logo=c++&amp;logoColor=white)  ![Python](https://img.shields.io/badge/-Python-white?style=plastic&logo=python)![Flask](https://img.shields.io/badge/-flask-azure?style=plastic&logo=flask&logoColor=blue) ![SQLite](https://img.shields.io/badge/-SQLite-yellow?style=plastic&amp&logo=sqlite&amp;logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3) 
