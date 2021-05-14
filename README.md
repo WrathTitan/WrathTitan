@@ -26,11 +26,4 @@
  [![Gmail](https://img.shields.io/badge/rishabhbhatt159@gmail.com-white?style=plastic&logo=Gmail&logoColor=&link=mailto:rishabhbhatt159@gmail.com)](mailto:rishabhbhatt159@gmail.com)
 
 ---
-
-
-
-<p align="center">
-<a href="https://github.com/wrathtitan">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wrathtitan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
-</p> 
+[![Rishabh's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=wrathtitan)](https://github.com/wrathtitan/wrathtitan)
