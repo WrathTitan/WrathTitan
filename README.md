@@ -1,8 +1,11 @@
 <p align="center">
     <img src="Assets/RishabhBhatt.jpg" width="180">
 </p>
+<p align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=33&color=22CBF7&center=true&vCenter=true&lines=(0_0)%2F~+Hi+There!;I'm+Rishabh+Bhatt!;Nice+to+E-meet+you!)](https://git.io/typing-svg) 
+
+</p>
 
 <h3 align="center"> A passionate and hardworking individual, interested in tech, with an aim to change the world! </h3>
 
